@@ -10,7 +10,7 @@ public class Main {
     public static void main(String[] args) {
         try {
             TelegramBotsApi telegramBotsApi = new TelegramBotsApi(DefaultBotSession.class);
-            telegramBotsApi.registerBot(new newsbot()); // register your bot here
+            telegramBotsApi.registerBot(new newsbot()); // Регистрация бота
             System.out.println("Бот успешно запущен!");
         } catch (TelegramApiException e) {
             System.out.println("Не удалось запустить бота: " + e.getMessage());
