@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10011f3d-94eb-47a0-9169-a4a72bcdbffc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Telegrambot/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Telegrambot/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Telegrambot/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Telegrambot/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Telegrambot/src/main/java/ru/alexdanil/bot/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Telegrambot/src/main/java/ru/alexdanil/bot/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Telegrambot/src/main/java/ru/alexdanil/bot/newsbot.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Telegrambot/src/main/java/ru/alexdanil/bot/newsbot.java" afterDir="false" />
-    </list>
+    <list default="true" id="10011f3d-94eb-47a0-9169-a4a72bcdbffc" name="Changes" comment="Initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Telegrambot" />
   </component>
   <component name="MavenImportPreferences">
@@ -73,6 +69,36 @@
       <option name="presentableId" value="Default" />
       <updated>1686567819142</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1686568236733</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686568236733</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit">
+      <created>1686568296855</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1686568296855</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>
