@@ -5,12 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="10011f3d-94eb-47a0-9169-a4a72bcdbffc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Telegrambot/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Telegrambot/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Telegrambot/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Telegrambot/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Telegrambot/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Telegrambot/src/main/java/ru/alexdanil/bot/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Telegrambot/src/main/java/ru/alexdanil/bot/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Telegrambot/src/main/java/ru/alexdanil/bot/newsbot.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Telegrambot/src/main/java/ru/alexdanil/bot/newsbot.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Telegrambot" />
@@ -34,6 +44,26 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.alexdanil.bot.Main" />
+      <module name="Telegrambot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.alexdanil.bot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
